@@ -112,9 +112,9 @@ Additional concepts:
 
 ## Sample Output 
 
-<img width="1122" height="718" alt="image" src="https://github.com/user-attachments/assets/5e360322-a32c-49e3-9859-6cab09dc78c5" />
-<img width="1118" height="726" alt="image" src="https://github.com/user-attachments/assets/7095816b-1d28-4419-94a9-071903c43cad" />
-<img width="1118" height="720" alt="image" src="https://github.com/user-attachments/assets/c02e1957-7691-4cdd-9f88-5de51f4c60ca" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/5e360322-a32c-49e3-9859-6cab09dc78c5" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/7095816b-1d28-4419-94a9-071903c43cad" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/c02e1957-7691-4cdd-9f88-5de51f4c60ca" />
 
 ---
 
