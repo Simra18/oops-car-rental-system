@@ -4,22 +4,6 @@ It demonstrates core OOP concepts including **inheritance**, **file handling**, 
 
 ---
 
-## Team Members
-
-| Name | Roll Number |
-|------|-------------|
-| **Simra Fatima** | 1/24/SET/BCS/307 |
-| **Kiranjeet Kaur** | 1/24/SET/BCS/295 |
-| **Drishti Parashar** | 1/24/SET/BCS/298 |
-| **Mayank Kashyap** | 1/24/SET/BCS/281 |
-
-**Faculty Mentor:** Mr. Ashok Madaan (Assistant Professor)  
-**Department:** Computer Science & Engineering  
-**Institute:** MRIIRS  
-**Academic Year:** 2025–2026  
-
----
-
 ## Overview
 The Car Rental System automates the process of renting vehicles through a console-based interface.  
 It allows an admin to log in, display available cars, calculate rental charges, and generate a final invoice.
